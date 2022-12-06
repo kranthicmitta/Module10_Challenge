@@ -35,8 +35,8 @@ Julpyter Lab needs to be installed through Anaconda.
 ### Usage
 
  This project can be used for analysing the performance to crpto performance
-!['Crypto Market Data Predictions'](Crypto Market Data Predictions.PNG)
-!['Crypto Market Data PCA Predictions'](Crypto Market Data PCA Predictions.PNG)
+!['Crypto Market Data Predictions'](Crypto_Market_Data_Predictions.PNG)
+!['Crypto Market Data PCA Predictions'](Crypto_Market_Data_PCAPredictions.PNG)
 
 ## Contributors
 
